@@ -1,0 +1,444 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "baoyijie111@gmail.com",
+      "password": "123456",
+      "role": "student"
+    },
+    {
+      "id": "2",
+      "email": "instructor1@example.com",
+      "password": "instructor123",
+      "role": "instructor"
+    },
+    {
+      "id": "3",
+      "email": "admin1@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "4",
+      "email": "student2@example.com",
+      "password": "student456",
+      "role": "student"
+    },
+    {
+      "id": "5",
+      "email": "instructor2@example.com",
+      "password": "instructor456",
+      "role": "instructor"
+    },
+    {
+      "id": "6",
+      "email": "admin2@example.com",
+      "password": "admin456",
+      "role": "admin"
+    },
+    {
+      "id": "e860",
+      "email": "1",
+      "password": "1"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "img_alt": "Capybara",
+      "image_url": "./image/background.png",
+      "course_title": "Introduction to Capybaras",
+      "course_link": "/coursePage",
+      "course_description": "Explore the foundations of this comprehensive course designed to provide essential skills and knowledge. From fundamental concepts to advanced techniques, this course offers a balanced mix of theory and practical application, ensuring you are well-prepared for real-world challenges. Whether you are a beginner or seeking to enhance your expertise, our engaging lectures, hands-on projects, and interactive discussions will guide you toward mastering this subject. Join us on this journey of learning and transformation!"
+    },
+    {
+      "id": "2",
+      "img_alt": "JavaScript Basics",
+      "image_url": "./image/background.png",
+      "course_title": "Taking care of Capybaras"
+    },
+    {
+      "id": "3",
+      "img_alt": "Python Programming",
+      "image_url": "./image/background.png",
+      "course_title": "Capybaras in the jungle"
+    },
+    {
+      "id": "4",
+      "img_alt": "Python Programming",
+      "image_url": "./image/background.png",
+      "course_title": "Capybaras in the jungle"
+    },
+    {
+      "id": "5",
+      "img_alt": "Python Programming",
+      "image_url": "./image/background.png",
+      "course_title": "Capybaras in the jungle"
+    },
+    {
+      "id": "6",
+      "img_alt": "Python Programming",
+      "image_url": "./image/background.png",
+      "course_title": "Capybaras in the jungle"
+    },
+    {
+      "id": "7",
+      "img_alt": "Python Programming",
+      "image_url": "./image/background.png",
+      "course_title": "Capybaras in the jungle"
+    }
+  ],
+  "video": [
+    {
+      "id": "1",
+      "title": "Introduction to Course"
+    },
+    {
+      "id": "2",
+      "title": "Course Basics"
+    },
+    {
+      "id": "3",
+      "title": "Advanced Techniques"
+    }
+  ],
+  "assessment": [
+    {
+      "id": "1",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "2",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "3",
+      "title": "Final Exam"
+    },
+    {
+      "id": "4",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "5",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "6",
+      "title": "Final Exam"
+    },
+    {
+      "id": "7",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "8",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "9",
+      "title": "Final Exam"
+    },
+    {
+      "id": "10",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "11",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "12",
+      "title": "Final Exam"
+    },
+    {
+      "id": "13",
+      "title": "Final Exam"
+    },
+    {
+      "id": "14",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "15",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "16",
+      "title": "Final Exam"
+    },
+    {
+      "id": "17",
+      "title": "Quiz 1: Basics"
+    },
+    {
+      "id": "18",
+      "title": "Assignment 1: Core Concepts"
+    },
+    {
+      "id": "19",
+      "title": "Final Exam"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "comment": "Quiz 1: Basics",
+      "value": 1
+    },
+    {
+      "id": "2",
+      "comment": "Wow, this course exceeded my expectations! The instructor explained complex topics in such a simple way, and the examples provided were incredibly relevant. I feel much more confident in my skills now, and I'm excited to apply everything I've learned to real-world projects!",
+      "value": 4
+    },
+    {
+      "id": "3",
+      "comment": "Final Exam",
+      "value": 5
+    },
+    {
+      "id": "4",
+      "comment": "Quiz 1: Basics",
+      "value": 2
+    },
+    {
+      "id": "5",
+      "comment": "Assignment 1: Core Concepts",
+      "value": 4
+    },
+    {
+      "id": "6",
+      "comment": "Final Exam",
+      "value": 3
+    },
+    {
+      "id": "7",
+      "comment": "Quiz 1: Basics",
+      "value": 3
+    },
+    {
+      "id": "8",
+      "comment": "Assignment 1: Core Concepts",
+      "value": 3
+    },
+    {
+      "id": "9",
+      "comment": "Final Exam",
+      "value": 3
+    },
+    {
+      "id": "10",
+      "comment": "Quiz 1: Basics",
+      "value": 3
+    },
+    {
+      "id": "11",
+      "comment": "Assignment 1: Core Concepts",
+      "value": 3
+    },
+    {
+      "id": "12",
+      "comment": "Final Exam",
+      "value": 3
+    },
+    {
+      "id": "13",
+      "comment": "Final Exam",
+      "value": 3
+    },
+    {
+      "id": "14",
+      "comment": "Quiz 1: Basics",
+      "value": 3
+    },
+    {
+      "id": "15",
+      "comment": "Assignment 1: Core Concepts",
+      "value": 3
+    },
+    {
+      "id": "16",
+      "comment": "Final Exam",
+      "value": 3
+    },
+    {
+      "id": "17",
+      "comment": "Quiz 1: Basics",
+      "value": 3
+    },
+    {
+      "id": "18",
+      "comment": "Assignment 1: Core Concepts",
+      "value": 3
+    },
+    {
+      "id": "19",
+      "comment": "Final Exam",
+      "value": 3
+    }
+  ],
+  "discussions": [
+    {
+      "id": "1",
+      "title": "Understanding Core Concepts"
+    },
+    {
+      "id": "2",
+      "title": "Best Practices in Coding"
+    },
+    {
+      "id": "3",
+      "title": "Troubleshooting Common Issues"
+    },
+    {
+      "id": "4",
+      "title": "Advanced Techniques and Tips"
+    },
+    {
+      "id": "5",
+      "title": "Getting Started with the Project"
+    },
+    {
+      "id": "6",
+      "title": "Recommended Resources"
+    },
+    {
+      "id": "7",
+      "title": "Preparing for the Final Exam"
+    },
+    {
+      "id": "8",
+      "title": "Collaborative Learning and Group Study"
+    },
+    {
+      "id": "9",
+      "title": "Real-World Applications of Skills"
+    },
+    {
+      "id": "10",
+      "title": "Feedback and Suggestions"
+    }
+  ],
+  "messages": [
+    {
+      "messageId": 1,
+      "sender_email": "alice@example.com",
+      "receiver_email": "bob@example.com",
+      "subject": "Project Update",
+      "text": "Hi Bob, just wanted to update you on the project progress. We’re on track for the initial milestones and things are looking good so far. Let’s catch up later this week for further discussion.",
+      "id": "a1bc"
+    },
+    {
+      "messageId": 2,
+      "sender_email": "charlie@example.com",
+      "receiver_email": "diana@example.com",
+      "subject": "Meeting Reminder",
+      "text": "Hello Diana, just a reminder about our meeting scheduled for tomorrow at 10 AM. Please review the attached agenda and let me know if there’s anything specific you’d like to add.",
+      "id": "c8c5"
+    },
+    {
+      "messageId": 3,
+      "sender_email": "emma@example.com",
+      "receiver_email": "frank@example.com",
+      "subject": "Invoice Attached",
+      "text": "Dear Frank, I hope you’re doing well. Please find attached the invoice for the recent services rendered. Let me know if you have any questions or require further information.",
+      "id": "9975"
+    },
+    {
+      "messageId": 4,
+      "sender_email": "george@example.com",
+      "receiver_email": "harry@example.com",
+      "subject": "Weekly Report",
+      "text": "Hi Harry, here’s the weekly report summarizing the key metrics and updates. Please go through it and feel free to reach out if you’d like to discuss any particular points in detail.",
+      "id": "3b6d"
+    },
+    {
+      "messageId": 5,
+      "sender_email": "irene@example.com",
+      "receiver_email": "john@example.com",
+      "subject": "Feedback Request",
+      "text": "Hello John, we’d love to get your feedback on the recent changes we implemented. Your insights are valuable to us and will help us improve further. Please share your thoughts when you have a moment.",
+      "id": "cea1"
+    },
+    {
+      "messageId": 6,
+      "sender_email": "lucas@example.com",
+      "receiver_email": "mike@example.com",
+      "subject": "Project Proposal",
+      "text": "Hello Mike, I’ve attached the project proposal for your review. Please let me know if you’d like any changes or have any feedback before we finalize it.",
+      "id": "4904"
+    },
+    {
+      "messageId": 7,
+      "sender_email": "nina@example.com",
+      "receiver_email": "oliver@example.com",
+      "subject": "Lunch Meeting?",
+      "text": "Hi Oliver, are you available for lunch this Friday to discuss the upcoming event? Let me know if that works or if there’s a better time for you.",
+      "id": "fbfc"
+    },
+    {
+      "messageId": 8,
+      "sender_email": "paul@example.com",
+      "receiver_email": "quincy@example.com",
+      "subject": "Document Request",
+      "text": "Dear Quincy, could you send over the finalized documents from last week’s meeting? I need them for the monthly report due next Monday.",
+      "id": "72b7"
+    },
+    {
+      "messageId": 9,
+      "sender_email": "rachel@example.com",
+      "receiver_email": "steve@example.com",
+      "subject": "Travel Itinerary",
+      "text": "Hi Steve, I’ve sent over the itinerary for our upcoming trip. Please review and let me know if any adjustments are needed for the accommodations or flights.",
+      "id": "3406"
+    },
+    {
+      "messageId": 10,
+      "sender_email": "tina@example.com",
+      "receiver_email": "uma@example.com",
+      "subject": "Client Feedback",
+      "text": "Hello Uma, I received some feedback from the client regarding the recent deliverables. Let’s discuss it during our next meeting and decide on any necessary adjustments.",
+      "id": "80e0"
+    },
+    {
+      "messageId": 11,
+      "sender_email": "victor@example.com",
+      "receiver_email": "wendy@example.com",
+      "subject": "Team Meeting Summary",
+      "text": "Hi Wendy, here’s the summary of today’s team meeting. Please go through it and let me know if you’d like any additional information on any of the discussed points.",
+      "id": "f6de"
+    },
+    {
+      "messageId": 12,
+      "sender_email": "xander@example.com",
+      "receiver_email": "yara@example.com",
+      "subject": "Resource Allocation",
+      "text": "Hello Yara, I’ve shared the resource allocation plan with you. Let’s review it together this week to ensure everyone is set up with what they need.",
+      "id": "2974"
+    },
+    {
+      "messageId": 13,
+      "sender_email": "zoe@example.com",
+      "receiver_email": "aaron@example.com",
+      "subject": "Event Planning Updates",
+      "text": "Dear Aaron, here are the latest updates on the event planning. Please take a look and let me know if you have any suggestions for the event timeline or guest list.",
+      "id": "2b47"
+    },
+    {
+      "messageId": 14,
+      "sender_email": "bella@example.com",
+      "receiver_email": "chris@example.com",
+      "subject": "Performance Review",
+      "text": "Hi Chris, your performance review is scheduled for next Thursday at 2 PM. Please prepare your self-evaluation beforehand and let me know if you have any questions.",
+      "id": "0534"
+    },
+    {
+      "messageId": 15,
+      "sender_email": "dan@example.com",
+      "receiver_email": "eva@example.com",
+      "subject": "Budget Proposal",
+      "text": "Hello Eva, I’ve completed the budget proposal for the next quarter. Please review it when you get a chance, and we can discuss any necessary adjustments.",
+      "id": "9dca"
+    }
+  ]
+}
